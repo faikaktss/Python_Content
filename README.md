@@ -68,3 +68,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ---
 
 **NOT:** Lütfen `KULLANICI_ADINIZ` ve `REPO_ADINIZ` kısımlarını kendi GitHub kullanıcı adınız ve depo adınızla değiştirmeyi unutmayın. Ayrıca, isterseniz projenize ait ekran görüntüleri veya GIF'ler ekleyerek daha çekici hale getirebilirsiniz.
+.
